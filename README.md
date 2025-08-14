@@ -1,6 +1,6 @@
-# 📸 Mekiwik
+# 📸 RxMedia
 
-**Mekiwik** is a social media app built with **React Native** and **Expo Router**, where users can post images, like, and comment on posts in real time. It uses **Supabase** for backend services including authentication, database, and real-time updates.
+**RxMedia** is a social media app built with **React Native** and **Expo Router**, where users can post images, like, and comment on posts in real time. It uses **Supabase** for backend services including authentication, database, and real-time updates.
 
 ---
 
