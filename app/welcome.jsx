@@ -18,7 +18,7 @@ const Welcome = () => {
             {/*Title*/}
             <View style={{gap:20}}>
                <Text style={styles.title}>
-                  MekiWick
+                  RxMedia
                </Text>
                <Text style={styles.punchline}>
                   where every thought finds a home and every image tells a story
